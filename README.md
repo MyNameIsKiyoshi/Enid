@@ -1,1 +1,1 @@
-# ⚠ This bot not works is Deprecated ⚠
+# ⚠ This project is a test ⚠
