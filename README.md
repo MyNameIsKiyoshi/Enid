@@ -1,1 +1,1 @@
-# Enid Discord Bot
+# ⚠ This bot not works is Deprecated ⚠

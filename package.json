@@ -3,8 +3,17 @@
   "version": "1.0.wolf",
   "description": "Hi~ I'm Enid and I'm Kiyoshi's stepsister ♥",
   "main": "enid.js",
+  "scripts": {
+    "start": "node enid.js"
+  },
   "repository": "https://github.com/MyNameIsKiyoshi/Enid.git",
   "author": "MyNameIsKiyoshi",
   "license": "MIT",
-  "private": null
+  "private": false,
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
+  }
 }
