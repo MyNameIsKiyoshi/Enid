@@ -1,0 +1,10 @@
+{
+  "name": "Enid",
+  "version": "1.0.wolf",
+  "description": "Hi~ I'm Enid and I'm Kiyoshi's stepsister ♥",
+  "main": "enid.js",
+  "repository": "https://github.com/MyNameIsKiyoshi/Enid.git",
+  "author": "MyNameIsKiyoshi",
+  "license": "MIT",
+  "private": null
+}
